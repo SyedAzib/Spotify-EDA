@@ -12,15 +12,12 @@ This project explores Spotify’s **Top 200 Charts (2020)** dataset to uncover i
 Dataset Link: [Spotify Top 200 Charts 2020 (Kaggle)](https://www.kaggle.com/datasets/iamsumat/spotify-top-200-charts-2020)
 
 ---
-
-## ❓ EDA Questions
-1. How many unique artists are in the dataset?  
-2. What is the distribution of song popularity scores?  
-3. Which artists appear most frequently in the Top 200?  
-4. What are the most common genres?  
-5. What is the average duration of songs?  
-6. How do audio features like **danceability, energy, valence** vary across genres?  
-7. Which countries contribute the most to the top charts?  
+## 📈 Sample Insights
+- Identified the most frequent artists in the **Top 200 charts**.  
+- Discovered trends in **song popularity distribution**.  
+- Compared how **audio features** (danceability, energy, valence) vary across genres.  
+- Visualized **global contribution of countries** to the top charts.  
+- Analyzed characteristics of **explicit vs non-explicit songs**.  
 
 ---
 
@@ -35,12 +32,7 @@ Dataset Link: [Spotify Top 200 Charts 2020 (Kaggle)](https://www.kaggle.com/data
 
 ---
 
-## 📈 Sample Insights
-- Identified the most frequent artists in the **Top 200 charts**.  
-- Discovered trends in **song popularity distribution**.  
-- Compared how **audio features** (danceability, energy, valence) vary across genres.  
-- Visualized **global contribution of countries** to the top charts.  
-- Analyzed characteristics of **explicit vs non-explicit songs**.  
+
 
 ---
 
