@@ -23,13 +23,13 @@ Dataset Link: [Spotify Top 200 Charts 2020 (Kaggle)](https://www.kaggle.com/data
 
 ## 📊 Example Visualizations
 1. **Bar Chart** → Top 10 artists by number of chart appearances
-![Bar chart](Visualization/spotify.1.png)
+![Bar chart](VISUALIZATION/spotify.1.png)
 
 3. **Heatmap** → Correlation between audio features (danceability, energy, valence, tempo, loudness)
-![Heatmap](Visualization/spotify.4.png)
+![Heatmap](VISUALIZATION/spotify.4.png)
 
 4. **Line Chart** → Popularity trend over time
-![Line chart](Visualization/spotify.5.png)    
+![Line chart](VISUALIZATION/spotify.5.png)    
 
 
 ---
